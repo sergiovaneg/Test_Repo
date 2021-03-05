@@ -3,7 +3,7 @@
 
 int main(int argc, char* argv[])
 {
-	MyClass m;
+	MyClass m; // Check Subdirectory for more information
 
 	std::cout << "Hello, world!";
 	std::cout << std::endl;
